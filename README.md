@@ -1,11 +1,11 @@
-# Blog-Hibernate-ObjectDB-AccesoDatos-2021-2022
+# Blog-JPA-ObjectDB-AccesoDatos-2021-2022
 Ejemplo de desarrollo de un blog (backend básico) para Acceso a Datos, usando una base de datos orientada a objetos ObjectDB usando JPA e implementando distintas técnicas y patrones de Acceso a Datos vistos en clase.
 
 [![Kotlin](https://img.shields.io/badge/Code-Java-blue)](https://www.java.com/es/)
 [![LISENCE](https://img.shields.io/badge/Lisence-MIT-green)]()
 ![GitHub](https://img.shields.io/github/last-commit/joseluisgs/Blog-Hibernate-ObjectDB-AccesoDatos-2021-2022)
 
-- [Blog-Hibernate-ObjectDB-AccesoDatos-2021-2022](#blog-hibernate-objectdb-accesodatos-2021-2022)
+- [Blog-JPA-ObjectDB-AccesoDatos-2021-2022](#blog-jpa-objectdb-accesodatos-2021-2022)
   - [Descripción](#descripción)
   - [Tecnologías](#tecnologías)
   - [Enunciado](#enunciado)
